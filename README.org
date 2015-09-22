@@ -1,0 +1,4 @@
+* This is the main doc for the hackathon teams at JJay
+- Go to each subdirectory
+- Fill out your information
+- Send me a pull request

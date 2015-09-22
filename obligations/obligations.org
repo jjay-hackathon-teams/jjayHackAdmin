@@ -1,0 +1,6 @@
+How many classes are you taking?
+Are you working?
+How long is your commute?
+Do you have any other jobs?
+How many hours per week?
+Do you have broadband at home?
